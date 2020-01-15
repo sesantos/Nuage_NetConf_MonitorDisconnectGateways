@@ -35,13 +35,13 @@ Setup Instructions:
 
 		[CONNECTION]
 		Port=5672
-		IpAddr1=10.150.34.91
+		IpAddr1=10.20.30.51
 
 		[VSD]
 		VSDUserName=csproot
 		VSDPassword=csproot
 		VSDOrg=csp
-		VSDUrl=https://10.150.34.91
+		VSDUrl=https://10.20.30.51
 
 Running Instructions:
  
