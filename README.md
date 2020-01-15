@@ -1,4 +1,4 @@
-This is a sample Python Code based on Nuage AMQP which monitors the status of all netconf sessions of the gateways.
+This is a sample Python Code based on Nuage AMQP Client (https://github.com/nuagenetworks/AMQP-Client) which monitors the status of all netconf sessions of the gateways.
 In case a transition from Disconnect to Connect is detected a NetConf force Deploy operation is pushed on VSD in order to ensure that the gateway overlay configuration is consistent with VSD.
 
 
