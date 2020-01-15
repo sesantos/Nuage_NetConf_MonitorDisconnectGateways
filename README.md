@@ -4,17 +4,17 @@ In case a transition from Disconnect to Connect is detected a NetConf force Depl
 
 Install Instructions:
 
- yum install git
- git clone https://github.com/sesantos/Nuage_NetConf_MonitorDisconnectGateways.git
- 
- yum install epel-release
- yum install python-pip
- yum install gcc
- yum install openssl
- 
- pip install futures
- pip install vspk
- yum install python-qpid-proton
+	 yum install git
+	 git clone https://github.com/sesantos/Nuage_NetConf_MonitorDisconnectGateways.git
+
+	 yum install epel-release
+	 yum install python-pip
+	 yum install gcc
+	 yum install openssl
+
+	 pip install futures
+	 pip install vspk
+	 yum install python-qpid-proton
 
 
 Setup Instructions:
