@@ -51,7 +51,7 @@ Log OutPut Example:
 
 	2020-01-15 11:53:30,250 INFO For Gateway DC1-POD1-Leaf1 This is a transation from: CONNECTED to DISCONNECTED
 
-	2020-01-15 11:55:12,199 INFO For Gateway NDC1-POD1-Leaf1 This is a transation from: DISCONNECTED to CONNECTED
+	2020-01-15 11:55:12,199 INFO For Gateway DC1-POD1-Leaf1 This is a transation from: DISCONNECTED to CONNECTED
 	2020-01-15 11:55:12,199 INFO Doing a Force Deploy on the Gateway: DC1-POD1-Leaf1
 	2020-01-15 11:55:12,200 INFO Geting The Session
 	2020-01-15 11:55:12,418 INFO Got the Gateway: DC1-POD1-Leaf1
